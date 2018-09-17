@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assessment</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="graphtext">Based on Salary in $</string>
+    <string name="image">Captured Image</string>
+    <string name="barGraph">BarGraph</string>
+    <string name="transition_name">transition</string>
+    <string name="welcome">WELCOME</string>
+    <string name="enter_your_credentials">Enter Your Credentials</string>
+    <string name="deatils_list">Details List</string>
+    <string name="API_KEY">AIzaSyBg4y8DXuhWbJHukvXxdmETTEEyEfzyMJM</string>
+
+
+
+</resources>
